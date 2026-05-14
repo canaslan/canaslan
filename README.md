@@ -41,11 +41,11 @@ Today, that childhood fascination with the future has evolved into a career dedi
 
 | **Category**          | **The Stack**                                                 |
 | --------------------- | ------------------------------------------------------------- |
-| **Design & Ideation** | Figma, tldraw, Adobe Photoshop, Midjourney                    |
-| **Video**             | Adobe Premiere Pro, After Effects                             |
-| **Cognition & Flow**  | Obsidian (Personal Knowledge Management), Notion, Toggl Track |
-| **Intelligence**      | Gemini, Claude, ChatGPT, Google NanoBanana                    |
-| **The Build**         | VS Code, GitHub                                               |
+| **Design & Ideation** | Figma, tldraw, Affinity, Midjourney                    |
+| **Video**             | Adobe Premiere Pro, After Effects                           |
+| **Cognition & Flow**  | Obsidian (Personal Knowledge Management), Notion, Focusmo |
+| **Intelligence**      | Claude                 |
+| **The Build**         | VS Code, Cursor, iTerm2                                            |
 
 #### 💻 The hardware
 
@@ -58,6 +58,7 @@ Today, that childhood fascination with the future has evolved into a career dedi
 
 - **Leuchtturm1917 Weekly Journal:** Because nothing beats the tactile clarity of paper and pen.
 - **Copic Markers:** Specifically in shades of orange, naturally.
+- **Staedler Graphite 925 2505 Mechanical Pencil:** That textured, metal grip
 
 #### 🎧 The tunes
 
